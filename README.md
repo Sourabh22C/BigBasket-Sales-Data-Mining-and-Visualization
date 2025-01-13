@@ -1,6 +1,7 @@
 # BigBasket-Sales-Data-Mining-and-Visualization
 This project involves an in-depth analysis of BigBasket's product and sales data using Python.
-![bigbasket]("https://www.code-brew.com/wp-content/uploads/2018/05/SUCCESS-STORY-1.png")
+![bigbasket](https://github.com/Sourabh22C/BigBasket-Sales-Data-Mining-and-Visualization/blob/main/SUCCESS-STORY-1.png)
+
 ### Key Features of the Project:
 Data Cleaning and Preprocessing
 
